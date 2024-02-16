@@ -1,0 +1,12 @@
+{
+    "files": {
+        "index.js": "ab179ae478b78fa0fef1aefe63a090f7cb55534df7692f0edbf1b8c7e7d6fc7a",
+        "module.config.json": "fccfa1f9e19b11a6d58abbc07369f696ed9ea3873e263f6a2adf8e04d672d4d4",
+        "module.json": "b50829a77557479f75704954787499292c8c80d9c7ba917d1ae8f1a6f0172caf"
+    },
+    "defs": {
+        "C_SHOW_ITEM_TOOLTIP_EX": "*",
+        "S_SHOW_ITEM_TOOLTIP": "*",
+        "S_TRADE_BROKER_WAITING_ITEM_LIST": "*"
+    }
+}

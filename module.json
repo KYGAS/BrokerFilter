@@ -1,0 +1,12 @@
+{
+    "name": "Broker Filter",
+    "author": "Brawn / Kygas (and no clue who the original author was)",
+    "description": "Filters out items on the broker that don't include the rolls you want",
+    "version": "1.1",
+    "options": {
+        "niceName": "BF",
+        "guiName": "Broker Filter"
+    },
+    "servers": ["https://raw.githubusercontent.com/KYGAS/BrokerFilter/master/"],
+    "disableAutoUpdate": false
+}
